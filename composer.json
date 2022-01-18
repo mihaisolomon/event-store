@@ -17,16 +17,16 @@
   ],
   "prefer-stable": true,
   "require": {
-    "php": "^7.2",
+    "php": "^7.4",
     "ext-json": "*",
-    "ramsey/uuid": "^3.7.3"
+    "ramsey/uuid": "~4.1"
   },
   "require-dev": {
     "amphp/amp": "^2.0.7",
     "phpspec/prophecy": "^1.7",
-    "phpunit/phpunit": "^7.4",
+    "phpunit/phpunit": "^9.5",
     "doctrine/instantiator": "^1.1",
-    "sebastian/object-enumerator": "^3.0.3",
+    "sebastian/object-enumerator": "^4.0",
     "php-coveralls/php-coveralls": "^2.1"
   },
   "autoload": {
